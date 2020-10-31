@@ -1,0 +1,15 @@
+# Ignore everyting
+* 
+
+# But not these file 
+!.gitignore
+!*.pl
+!*.py
+!*.R
+!*.README
+!*.sh
+!*.ipynb
+
+!*/
+
+.ipynb_checkpoints/ 
