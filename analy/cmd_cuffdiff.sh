@@ -1,0 +1,1 @@
+cuffdiff -o diff_out -p 8 -L EV,DNMT3B -u cuffmerge_out/merged.gtf ./EV_3/accepted_hits.bam,EV_4/accepted_hits.bam ./DNMT3B_2/accepted_hits.bam,./DNMT3B_3/accepted_hits.bam,./DNMT3B_4/accepted_hits.bam
