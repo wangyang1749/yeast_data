@@ -1,1 +1,1 @@
-hisat2 -x ../../data/reference/yeast_ref -U ../../data/RAN_seq/SRR1916154.1.fastq > EV_str.sam
+hisat2 -x ../../data/reference/yeast_ref -U ../../data/raw_data/SRR1916152.fastq > EV_str.sam
