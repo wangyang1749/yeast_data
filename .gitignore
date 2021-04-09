@@ -10,7 +10,7 @@
 !*.sh
 !*.ipynb
 !*.csv
-
+!*.md
 !*/
 
 .ipynb_checkpoints/ 
